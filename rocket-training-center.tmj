@@ -199,7 +199,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"lotu.tmj#entry-from-rocket-training-second-floor"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe#entry-from-rocket-training-second-floor"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -216,7 +216,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"lotu.tmj#entry-from-rocket-training-center"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe#entry-from-rocket-training-center"
                         }],
                  "rotation":0,
                  "type":"area",

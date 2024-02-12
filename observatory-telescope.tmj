@@ -231,7 +231,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"observatory.tmj#entry-from-telescope"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---observatory#entry-from-telescope"
                         }],
                  "rotation":0,
                  "type":"area",

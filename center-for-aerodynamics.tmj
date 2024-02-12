@@ -285,7 +285,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"lotu.tmj#entry-from-aerodynamics"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe#entry-from-aerodynamics"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -302,7 +302,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"lotu.tmj#entry-from-aerodynamics"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe#entry-from-aerodynamics"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -319,7 +319,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"lotu.tmj#entry-from-aerodynamics-second"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe#entry-from-aerodynamics-second"
                         }],
                  "rotation":0,
                  "type":"area",

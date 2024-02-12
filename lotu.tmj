@@ -2081,7 +2081,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"spaceship.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---spaceship"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2098,7 +2098,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"rocketship.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---rocketship"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2115,7 +2115,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hangar.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---hangar"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2132,7 +2132,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"planetarium.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---planetarium"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2149,7 +2149,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"observatory.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---observatory"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2166,7 +2166,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"rocket-training-center.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---rocket-training-center"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2183,7 +2183,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"rocket-training-center.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---rocket-training-center"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2200,7 +2200,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"center-for-aerodynamics.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---center-for-aerodynamics"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2217,7 +2217,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"center-for-aerodynamics.tmj#entry-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---center-for-aerodynamics#entry-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2234,7 +2234,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"space-needle.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---space-needle"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2251,7 +2251,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"james-web-telescope.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---james-webb-telescope"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2268,7 +2268,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"james-web-telescope.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---james-webb-telescope"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2285,7 +2285,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"james-web-telescope.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---james-webb-telescope"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2302,7 +2302,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"control-tower.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---control-tower"
                         }],
                  "rotation":0,
                  "type":"area",

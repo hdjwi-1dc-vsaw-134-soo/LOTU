@@ -317,7 +317,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"lotu.tmj#entry-from-observatory"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe#entry-from-observatory"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -334,7 +334,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"observatory-telescope.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/laws-of-the-universe---observatory-telescope"
                         }],
                  "rotation":0,
                  "type":"area",
