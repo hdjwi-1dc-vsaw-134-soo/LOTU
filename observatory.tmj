@@ -17083,7 +17083,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "lotu.tmj#entry-from-observatory"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe#entry-from-observatory"
             }
           ],
           "rotation": 0,
@@ -17101,7 +17101,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "observatory-telescope.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---observatory-telescope"
             }
           ],
           "rotation": 0,
@@ -21384,7 +21384,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "observatory-chunk-1-ed57bae2.png",
+      "image": "observatory-chunk-1-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21580,7 +21580,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "observatory-chunk-2-ed57bae2.png",
+      "image": "observatory-chunk-2-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21595,7 +21595,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "observatory-chunk-3-ed57bae2.png",
+      "image": "observatory-chunk-3-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21610,7 +21610,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "observatory-chunk-4-ed57bae2.png",
+      "image": "observatory-chunk-4-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21625,7 +21625,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "observatory-chunk-5-ed57bae2.png",
+      "image": "observatory-chunk-5-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21640,7 +21640,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "observatory-chunk-6-ed57bae2.png",
+      "image": "observatory-chunk-6-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21655,7 +21655,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "observatory-chunk-7-ed57bae2.png",
+      "image": "observatory-chunk-7-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21670,7 +21670,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "observatory-chunk-8-ed57bae2.png",
+      "image": "observatory-chunk-8-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21685,7 +21685,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "observatory-chunk-9-ed57bae2.png",
+      "image": "observatory-chunk-9-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21700,7 +21700,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "observatory-chunk-10-ed57bae2.png",
+      "image": "observatory-chunk-10-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21715,7 +21715,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "observatory-chunk-11-ed57bae2.png",
+      "image": "observatory-chunk-11-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21730,7 +21730,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "observatory-chunk-12-ed57bae2.png",
+      "image": "observatory-chunk-12-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21745,7 +21745,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "observatory-chunk-13-ed57bae2.png",
+      "image": "observatory-chunk-13-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21760,7 +21760,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "observatory-chunk-14-ed57bae2.png",
+      "image": "observatory-chunk-14-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21775,7 +21775,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "observatory-chunk-15-ed57bae2.png",
+      "image": "observatory-chunk-15-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21790,7 +21790,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "observatory-chunk-16-ed57bae2.png",
+      "image": "observatory-chunk-16-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21805,7 +21805,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "observatory-chunk-17-ed57bae2.png",
+      "image": "observatory-chunk-17-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21820,7 +21820,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "observatory-chunk-18-ed57bae2.png",
+      "image": "observatory-chunk-18-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21835,7 +21835,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "observatory-chunk-19-ed57bae2.png",
+      "image": "observatory-chunk-19-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21850,7 +21850,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "observatory-chunk-20-ed57bae2.png",
+      "image": "observatory-chunk-20-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21865,7 +21865,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "observatory-chunk-21-ed57bae2.png",
+      "image": "observatory-chunk-21-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21880,7 +21880,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "observatory-chunk-22-ed57bae2.png",
+      "image": "observatory-chunk-22-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21895,7 +21895,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "observatory-chunk-23-ed57bae2.png",
+      "image": "observatory-chunk-23-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21910,7 +21910,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "observatory-chunk-24-ed57bae2.png",
+      "image": "observatory-chunk-24-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21925,7 +21925,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "observatory-chunk-25-ed57bae2.png",
+      "image": "observatory-chunk-25-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21940,7 +21940,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "observatory-chunk-26-ed57bae2.png",
+      "image": "observatory-chunk-26-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21955,7 +21955,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "observatory-chunk-27-ed57bae2.png",
+      "image": "observatory-chunk-27-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21970,7 +21970,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "observatory-chunk-28-ed57bae2.png",
+      "image": "observatory-chunk-28-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -21985,7 +21985,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "observatory-chunk-29-ed57bae2.png",
+      "image": "observatory-chunk-29-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22000,7 +22000,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "observatory-chunk-30-ed57bae2.png",
+      "image": "observatory-chunk-30-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22015,7 +22015,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "observatory-chunk-31-ed57bae2.png",
+      "image": "observatory-chunk-31-66316c4f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22030,7 +22030,7 @@
     {
       "columns": 15,
       "firstgid": 7937,
-      "image": "observatory-chunk-32-ed57bae2.png",
+      "image": "observatory-chunk-32-66316c4f.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

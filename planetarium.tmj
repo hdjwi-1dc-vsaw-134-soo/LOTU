@@ -10395,7 +10395,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "lotu.tmj#entry-from-planetarium"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe#entry-from-planetarium"
             }
           ],
           "rotation": 0,
@@ -13898,7 +13898,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "planetarium-chunk-1-3ce58707.png",
+      "image": "planetarium-chunk-1-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14094,7 +14094,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "planetarium-chunk-2-3ce58707.png",
+      "image": "planetarium-chunk-2-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14109,7 +14109,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "planetarium-chunk-3-3ce58707.png",
+      "image": "planetarium-chunk-3-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14124,7 +14124,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "planetarium-chunk-4-3ce58707.png",
+      "image": "planetarium-chunk-4-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14139,7 +14139,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "planetarium-chunk-5-3ce58707.png",
+      "image": "planetarium-chunk-5-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14154,7 +14154,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "planetarium-chunk-6-3ce58707.png",
+      "image": "planetarium-chunk-6-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14169,7 +14169,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "planetarium-chunk-7-3ce58707.png",
+      "image": "planetarium-chunk-7-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14184,7 +14184,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "planetarium-chunk-8-3ce58707.png",
+      "image": "planetarium-chunk-8-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14199,7 +14199,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "planetarium-chunk-9-3ce58707.png",
+      "image": "planetarium-chunk-9-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14214,7 +14214,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "planetarium-chunk-10-3ce58707.png",
+      "image": "planetarium-chunk-10-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14229,7 +14229,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "planetarium-chunk-11-3ce58707.png",
+      "image": "planetarium-chunk-11-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14244,7 +14244,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "planetarium-chunk-12-3ce58707.png",
+      "image": "planetarium-chunk-12-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14259,7 +14259,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "planetarium-chunk-13-3ce58707.png",
+      "image": "planetarium-chunk-13-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14274,7 +14274,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "planetarium-chunk-14-3ce58707.png",
+      "image": "planetarium-chunk-14-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14289,7 +14289,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "planetarium-chunk-15-3ce58707.png",
+      "image": "planetarium-chunk-15-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14304,7 +14304,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "planetarium-chunk-16-3ce58707.png",
+      "image": "planetarium-chunk-16-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14319,7 +14319,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "planetarium-chunk-17-3ce58707.png",
+      "image": "planetarium-chunk-17-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14334,7 +14334,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "planetarium-chunk-18-3ce58707.png",
+      "image": "planetarium-chunk-18-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14349,7 +14349,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "planetarium-chunk-19-3ce58707.png",
+      "image": "planetarium-chunk-19-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14364,7 +14364,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "planetarium-chunk-20-3ce58707.png",
+      "image": "planetarium-chunk-20-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14379,7 +14379,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "planetarium-chunk-21-3ce58707.png",
+      "image": "planetarium-chunk-21-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14394,7 +14394,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "planetarium-chunk-22-3ce58707.png",
+      "image": "planetarium-chunk-22-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14409,7 +14409,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "planetarium-chunk-23-3ce58707.png",
+      "image": "planetarium-chunk-23-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14424,7 +14424,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "planetarium-chunk-24-3ce58707.png",
+      "image": "planetarium-chunk-24-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14439,7 +14439,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "planetarium-chunk-25-3ce58707.png",
+      "image": "planetarium-chunk-25-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14454,7 +14454,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "planetarium-chunk-26-3ce58707.png",
+      "image": "planetarium-chunk-26-c56c52d6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14469,7 +14469,7 @@
     {
       "columns": 15,
       "firstgid": 6657,
-      "image": "planetarium-chunk-27-3ce58707.png",
+      "image": "planetarium-chunk-27-c56c52d6.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

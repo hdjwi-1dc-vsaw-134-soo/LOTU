@@ -175274,7 +175274,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "spaceship.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---spaceship"
             }
           ],
           "rotation": 0,
@@ -175292,7 +175292,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "rocketship.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---rocketship"
             }
           ],
           "rotation": 0,
@@ -175310,7 +175310,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "hangar.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---hangar"
             }
           ],
           "rotation": 0,
@@ -175328,7 +175328,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "planetarium.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---planetarium"
             }
           ],
           "rotation": 0,
@@ -175346,7 +175346,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "observatory.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---observatory"
             }
           ],
           "rotation": 0,
@@ -175364,7 +175364,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "rocket-training-center.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---rocket-training-center"
             }
           ],
           "rotation": 0,
@@ -175382,7 +175382,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "rocket-training-center.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---rocket-training-center"
             }
           ],
           "rotation": 0,
@@ -175400,7 +175400,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "center-for-aerodynamics.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---center-for-aerodynamics"
             }
           ],
           "rotation": 0,
@@ -175418,7 +175418,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "center-for-aerodynamics.tmj#entry-1"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---center-for-aerodynamics#entry-1"
             }
           ],
           "rotation": 0,
@@ -175436,7 +175436,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "space-needle.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---space-needle"
             }
           ],
           "rotation": 0,
@@ -175454,7 +175454,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "james-web-telescope.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---james-webb-telescope"
             }
           ],
           "rotation": 0,
@@ -175472,7 +175472,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "james-web-telescope.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---james-webb-telescope"
             }
           ],
           "rotation": 0,
@@ -175490,7 +175490,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "james-web-telescope.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---james-webb-telescope"
             }
           ],
           "rotation": 0,
@@ -175508,7 +175508,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "control-tower.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe---control-tower"
             }
           ],
           "rotation": 0,
@@ -185869,7 +185869,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "lotu-chunk-1-c654ead4.png",
+      "image": "lotu-chunk-1-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186665,7 +186665,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "lotu-chunk-2-c654ead4.png",
+      "image": "lotu-chunk-2-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186680,7 +186680,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "lotu-chunk-3-c654ead4.png",
+      "image": "lotu-chunk-3-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186695,7 +186695,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "lotu-chunk-4-c654ead4.png",
+      "image": "lotu-chunk-4-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186710,7 +186710,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "lotu-chunk-5-c654ead4.png",
+      "image": "lotu-chunk-5-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186725,7 +186725,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "lotu-chunk-6-c654ead4.png",
+      "image": "lotu-chunk-6-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186740,7 +186740,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "lotu-chunk-7-c654ead4.png",
+      "image": "lotu-chunk-7-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186755,7 +186755,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "lotu-chunk-8-c654ead4.png",
+      "image": "lotu-chunk-8-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186770,7 +186770,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "lotu-chunk-9-c654ead4.png",
+      "image": "lotu-chunk-9-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186785,7 +186785,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "lotu-chunk-10-c654ead4.png",
+      "image": "lotu-chunk-10-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186800,7 +186800,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "lotu-chunk-11-c654ead4.png",
+      "image": "lotu-chunk-11-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186815,7 +186815,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "lotu-chunk-12-c654ead4.png",
+      "image": "lotu-chunk-12-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186830,7 +186830,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "lotu-chunk-13-c654ead4.png",
+      "image": "lotu-chunk-13-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186845,7 +186845,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "lotu-chunk-14-c654ead4.png",
+      "image": "lotu-chunk-14-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186860,7 +186860,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "lotu-chunk-15-c654ead4.png",
+      "image": "lotu-chunk-15-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186875,7 +186875,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "lotu-chunk-16-c654ead4.png",
+      "image": "lotu-chunk-16-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186890,7 +186890,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "lotu-chunk-17-c654ead4.png",
+      "image": "lotu-chunk-17-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186905,7 +186905,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "lotu-chunk-18-c654ead4.png",
+      "image": "lotu-chunk-18-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186920,7 +186920,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "lotu-chunk-19-c654ead4.png",
+      "image": "lotu-chunk-19-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186935,7 +186935,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "lotu-chunk-20-c654ead4.png",
+      "image": "lotu-chunk-20-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186950,7 +186950,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "lotu-chunk-21-c654ead4.png",
+      "image": "lotu-chunk-21-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186965,7 +186965,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "lotu-chunk-22-c654ead4.png",
+      "image": "lotu-chunk-22-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186980,7 +186980,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "lotu-chunk-23-c654ead4.png",
+      "image": "lotu-chunk-23-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -186995,7 +186995,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "lotu-chunk-24-c654ead4.png",
+      "image": "lotu-chunk-24-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187010,7 +187010,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "lotu-chunk-25-c654ead4.png",
+      "image": "lotu-chunk-25-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187025,7 +187025,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "lotu-chunk-26-c654ead4.png",
+      "image": "lotu-chunk-26-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187040,7 +187040,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "lotu-chunk-27-c654ead4.png",
+      "image": "lotu-chunk-27-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187055,7 +187055,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "lotu-chunk-28-c654ead4.png",
+      "image": "lotu-chunk-28-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187070,7 +187070,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "lotu-chunk-29-c654ead4.png",
+      "image": "lotu-chunk-29-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187085,7 +187085,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "lotu-chunk-30-c654ead4.png",
+      "image": "lotu-chunk-30-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187100,7 +187100,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "lotu-chunk-31-c654ead4.png",
+      "image": "lotu-chunk-31-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187115,7 +187115,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "lotu-chunk-32-c654ead4.png",
+      "image": "lotu-chunk-32-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187130,7 +187130,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "lotu-chunk-33-c654ead4.png",
+      "image": "lotu-chunk-33-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187145,7 +187145,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "lotu-chunk-34-c654ead4.png",
+      "image": "lotu-chunk-34-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187160,7 +187160,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "lotu-chunk-35-c654ead4.png",
+      "image": "lotu-chunk-35-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187175,7 +187175,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "lotu-chunk-36-c654ead4.png",
+      "image": "lotu-chunk-36-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187190,7 +187190,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "lotu-chunk-37-c654ead4.png",
+      "image": "lotu-chunk-37-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187205,7 +187205,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "lotu-chunk-38-c654ead4.png",
+      "image": "lotu-chunk-38-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187220,7 +187220,7 @@
     {
       "columns": 16,
       "firstgid": 9729,
-      "image": "lotu-chunk-39-c654ead4.png",
+      "image": "lotu-chunk-39-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187235,7 +187235,7 @@
     {
       "columns": 16,
       "firstgid": 9985,
-      "image": "lotu-chunk-40-c654ead4.png",
+      "image": "lotu-chunk-40-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187250,7 +187250,7 @@
     {
       "columns": 16,
       "firstgid": 10241,
-      "image": "lotu-chunk-41-c654ead4.png",
+      "image": "lotu-chunk-41-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187265,7 +187265,7 @@
     {
       "columns": 16,
       "firstgid": 10497,
-      "image": "lotu-chunk-42-c654ead4.png",
+      "image": "lotu-chunk-42-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187280,7 +187280,7 @@
     {
       "columns": 16,
       "firstgid": 10753,
-      "image": "lotu-chunk-43-c654ead4.png",
+      "image": "lotu-chunk-43-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187295,7 +187295,7 @@
     {
       "columns": 16,
       "firstgid": 11009,
-      "image": "lotu-chunk-44-c654ead4.png",
+      "image": "lotu-chunk-44-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187310,7 +187310,7 @@
     {
       "columns": 16,
       "firstgid": 11265,
-      "image": "lotu-chunk-45-c654ead4.png",
+      "image": "lotu-chunk-45-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187325,7 +187325,7 @@
     {
       "columns": 16,
       "firstgid": 11521,
-      "image": "lotu-chunk-46-c654ead4.png",
+      "image": "lotu-chunk-46-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187340,7 +187340,7 @@
     {
       "columns": 16,
       "firstgid": 11777,
-      "image": "lotu-chunk-47-c654ead4.png",
+      "image": "lotu-chunk-47-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187355,7 +187355,7 @@
     {
       "columns": 16,
       "firstgid": 12033,
-      "image": "lotu-chunk-48-c654ead4.png",
+      "image": "lotu-chunk-48-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187370,7 +187370,7 @@
     {
       "columns": 16,
       "firstgid": 12289,
-      "image": "lotu-chunk-49-c654ead4.png",
+      "image": "lotu-chunk-49-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187385,7 +187385,7 @@
     {
       "columns": 16,
       "firstgid": 12545,
-      "image": "lotu-chunk-50-c654ead4.png",
+      "image": "lotu-chunk-50-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187400,7 +187400,7 @@
     {
       "columns": 16,
       "firstgid": 12801,
-      "image": "lotu-chunk-51-c654ead4.png",
+      "image": "lotu-chunk-51-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187415,7 +187415,7 @@
     {
       "columns": 16,
       "firstgid": 13057,
-      "image": "lotu-chunk-52-c654ead4.png",
+      "image": "lotu-chunk-52-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187430,7 +187430,7 @@
     {
       "columns": 16,
       "firstgid": 13313,
-      "image": "lotu-chunk-53-c654ead4.png",
+      "image": "lotu-chunk-53-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187445,7 +187445,7 @@
     {
       "columns": 16,
       "firstgid": 13569,
-      "image": "lotu-chunk-54-c654ead4.png",
+      "image": "lotu-chunk-54-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187460,7 +187460,7 @@
     {
       "columns": 16,
       "firstgid": 13825,
-      "image": "lotu-chunk-55-c654ead4.png",
+      "image": "lotu-chunk-55-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187475,7 +187475,7 @@
     {
       "columns": 16,
       "firstgid": 14081,
-      "image": "lotu-chunk-56-c654ead4.png",
+      "image": "lotu-chunk-56-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187490,7 +187490,7 @@
     {
       "columns": 16,
       "firstgid": 14337,
-      "image": "lotu-chunk-57-c654ead4.png",
+      "image": "lotu-chunk-57-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187505,7 +187505,7 @@
     {
       "columns": 16,
       "firstgid": 14593,
-      "image": "lotu-chunk-58-c654ead4.png",
+      "image": "lotu-chunk-58-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187520,7 +187520,7 @@
     {
       "columns": 16,
       "firstgid": 14849,
-      "image": "lotu-chunk-59-c654ead4.png",
+      "image": "lotu-chunk-59-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187535,7 +187535,7 @@
     {
       "columns": 16,
       "firstgid": 15105,
-      "image": "lotu-chunk-60-c654ead4.png",
+      "image": "lotu-chunk-60-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187550,7 +187550,7 @@
     {
       "columns": 16,
       "firstgid": 15361,
-      "image": "lotu-chunk-61-c654ead4.png",
+      "image": "lotu-chunk-61-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187565,7 +187565,7 @@
     {
       "columns": 16,
       "firstgid": 15617,
-      "image": "lotu-chunk-62-c654ead4.png",
+      "image": "lotu-chunk-62-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187580,7 +187580,7 @@
     {
       "columns": 16,
       "firstgid": 15873,
-      "image": "lotu-chunk-63-c654ead4.png",
+      "image": "lotu-chunk-63-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187595,7 +187595,7 @@
     {
       "columns": 16,
       "firstgid": 16129,
-      "image": "lotu-chunk-64-c654ead4.png",
+      "image": "lotu-chunk-64-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187610,7 +187610,7 @@
     {
       "columns": 16,
       "firstgid": 16385,
-      "image": "lotu-chunk-65-c654ead4.png",
+      "image": "lotu-chunk-65-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187625,7 +187625,7 @@
     {
       "columns": 16,
       "firstgid": 16641,
-      "image": "lotu-chunk-66-c654ead4.png",
+      "image": "lotu-chunk-66-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187640,7 +187640,7 @@
     {
       "columns": 16,
       "firstgid": 16897,
-      "image": "lotu-chunk-67-c654ead4.png",
+      "image": "lotu-chunk-67-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187655,7 +187655,7 @@
     {
       "columns": 16,
       "firstgid": 17153,
-      "image": "lotu-chunk-68-c654ead4.png",
+      "image": "lotu-chunk-68-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187670,7 +187670,7 @@
     {
       "columns": 16,
       "firstgid": 17409,
-      "image": "lotu-chunk-69-c654ead4.png",
+      "image": "lotu-chunk-69-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187685,7 +187685,7 @@
     {
       "columns": 16,
       "firstgid": 17665,
-      "image": "lotu-chunk-70-c654ead4.png",
+      "image": "lotu-chunk-70-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187700,7 +187700,7 @@
     {
       "columns": 16,
       "firstgid": 17921,
-      "image": "lotu-chunk-71-c654ead4.png",
+      "image": "lotu-chunk-71-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187715,7 +187715,7 @@
     {
       "columns": 16,
       "firstgid": 18177,
-      "image": "lotu-chunk-72-c654ead4.png",
+      "image": "lotu-chunk-72-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187730,7 +187730,7 @@
     {
       "columns": 16,
       "firstgid": 18433,
-      "image": "lotu-chunk-73-c654ead4.png",
+      "image": "lotu-chunk-73-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187745,7 +187745,7 @@
     {
       "columns": 16,
       "firstgid": 18689,
-      "image": "lotu-chunk-74-c654ead4.png",
+      "image": "lotu-chunk-74-037ed57a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -187760,7 +187760,7 @@
     {
       "columns": 4,
       "firstgid": 18945,
-      "image": "lotu-chunk-75-c654ead4.png",
+      "image": "lotu-chunk-75-037ed57a.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,

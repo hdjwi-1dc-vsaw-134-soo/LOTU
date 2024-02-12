@@ -8939,7 +8939,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "lotu.tmj#entry-from-rocket-training-second-floor"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe#entry-from-rocket-training-second-floor"
             }
           ],
           "rotation": 0,
@@ -8957,7 +8957,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "lotu.tmj#entry-from-rocket-training-center"
+              "value": "https://play.workadventu.re/@/workspacesky/laws-of-the-universe/laws-of-the-universe#entry-from-rocket-training-center"
             }
           ],
           "rotation": 0,
@@ -11944,7 +11944,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "rocket-training-center-chunk-1-0865b87f.png",
+      "image": "rocket-training-center-chunk-1-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12220,7 +12220,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "rocket-training-center-chunk-2-0865b87f.png",
+      "image": "rocket-training-center-chunk-2-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12235,7 +12235,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "rocket-training-center-chunk-3-0865b87f.png",
+      "image": "rocket-training-center-chunk-3-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12250,7 +12250,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "rocket-training-center-chunk-4-0865b87f.png",
+      "image": "rocket-training-center-chunk-4-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12265,7 +12265,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "rocket-training-center-chunk-5-0865b87f.png",
+      "image": "rocket-training-center-chunk-5-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12280,7 +12280,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "rocket-training-center-chunk-6-0865b87f.png",
+      "image": "rocket-training-center-chunk-6-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12295,7 +12295,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "rocket-training-center-chunk-7-0865b87f.png",
+      "image": "rocket-training-center-chunk-7-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12310,7 +12310,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "rocket-training-center-chunk-8-0865b87f.png",
+      "image": "rocket-training-center-chunk-8-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12325,7 +12325,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "rocket-training-center-chunk-9-0865b87f.png",
+      "image": "rocket-training-center-chunk-9-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12340,7 +12340,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "rocket-training-center-chunk-10-0865b87f.png",
+      "image": "rocket-training-center-chunk-10-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12355,7 +12355,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "rocket-training-center-chunk-11-0865b87f.png",
+      "image": "rocket-training-center-chunk-11-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12370,7 +12370,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "rocket-training-center-chunk-12-0865b87f.png",
+      "image": "rocket-training-center-chunk-12-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12385,7 +12385,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "rocket-training-center-chunk-13-0865b87f.png",
+      "image": "rocket-training-center-chunk-13-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12400,7 +12400,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "rocket-training-center-chunk-14-0865b87f.png",
+      "image": "rocket-training-center-chunk-14-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12415,7 +12415,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "rocket-training-center-chunk-15-0865b87f.png",
+      "image": "rocket-training-center-chunk-15-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12430,7 +12430,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "rocket-training-center-chunk-16-0865b87f.png",
+      "image": "rocket-training-center-chunk-16-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12445,7 +12445,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "rocket-training-center-chunk-17-0865b87f.png",
+      "image": "rocket-training-center-chunk-17-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12460,7 +12460,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "rocket-training-center-chunk-18-0865b87f.png",
+      "image": "rocket-training-center-chunk-18-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12475,7 +12475,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "rocket-training-center-chunk-19-0865b87f.png",
+      "image": "rocket-training-center-chunk-19-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12490,7 +12490,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "rocket-training-center-chunk-20-0865b87f.png",
+      "image": "rocket-training-center-chunk-20-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12505,7 +12505,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "rocket-training-center-chunk-21-0865b87f.png",
+      "image": "rocket-training-center-chunk-21-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12520,7 +12520,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "rocket-training-center-chunk-22-0865b87f.png",
+      "image": "rocket-training-center-chunk-22-8228a481.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12535,7 +12535,7 @@
     {
       "columns": 11,
       "firstgid": 5633,
-      "image": "rocket-training-center-chunk-23-0865b87f.png",
+      "image": "rocket-training-center-chunk-23-8228a481.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
