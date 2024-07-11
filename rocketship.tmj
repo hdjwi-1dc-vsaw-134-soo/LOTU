@@ -12446,7 +12446,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "rocketship-chunk-1-b65da5b6.png",
+      "image": "rocketship-chunk-1-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12522,7 +12522,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "rocketship-chunk-2-b65da5b6.png",
+      "image": "rocketship-chunk-2-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12537,7 +12537,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "rocketship-chunk-3-b65da5b6.png",
+      "image": "rocketship-chunk-3-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12552,7 +12552,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "rocketship-chunk-4-b65da5b6.png",
+      "image": "rocketship-chunk-4-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12567,7 +12567,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "rocketship-chunk-5-b65da5b6.png",
+      "image": "rocketship-chunk-5-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12582,7 +12582,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "rocketship-chunk-6-b65da5b6.png",
+      "image": "rocketship-chunk-6-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12597,7 +12597,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "rocketship-chunk-7-b65da5b6.png",
+      "image": "rocketship-chunk-7-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12612,7 +12612,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "rocketship-chunk-8-b65da5b6.png",
+      "image": "rocketship-chunk-8-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12627,7 +12627,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "rocketship-chunk-9-b65da5b6.png",
+      "image": "rocketship-chunk-9-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12642,7 +12642,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "rocketship-chunk-10-b65da5b6.png",
+      "image": "rocketship-chunk-10-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12657,7 +12657,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "rocketship-chunk-11-b65da5b6.png",
+      "image": "rocketship-chunk-11-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12672,7 +12672,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "rocketship-chunk-12-b65da5b6.png",
+      "image": "rocketship-chunk-12-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12687,7 +12687,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "rocketship-chunk-13-b65da5b6.png",
+      "image": "rocketship-chunk-13-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12702,7 +12702,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "rocketship-chunk-14-b65da5b6.png",
+      "image": "rocketship-chunk-14-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12717,7 +12717,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "rocketship-chunk-15-b65da5b6.png",
+      "image": "rocketship-chunk-15-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12732,7 +12732,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "rocketship-chunk-16-b65da5b6.png",
+      "image": "rocketship-chunk-16-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12747,7 +12747,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "rocketship-chunk-17-b65da5b6.png",
+      "image": "rocketship-chunk-17-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12762,7 +12762,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "rocketship-chunk-18-b65da5b6.png",
+      "image": "rocketship-chunk-18-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12777,7 +12777,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "rocketship-chunk-19-b65da5b6.png",
+      "image": "rocketship-chunk-19-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12792,7 +12792,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "rocketship-chunk-20-b65da5b6.png",
+      "image": "rocketship-chunk-20-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12807,7 +12807,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "rocketship-chunk-21-b65da5b6.png",
+      "image": "rocketship-chunk-21-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12822,7 +12822,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "rocketship-chunk-22-b65da5b6.png",
+      "image": "rocketship-chunk-22-aee3abc0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12847,6 +12847,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Laws of the Universe is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Laws of the Universe maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

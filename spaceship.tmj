@@ -11318,7 +11318,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "spaceship-chunk-1-e26b3fa1.png",
+      "image": "spaceship-chunk-1-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11474,7 +11474,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "spaceship-chunk-2-e26b3fa1.png",
+      "image": "spaceship-chunk-2-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11489,7 +11489,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "spaceship-chunk-3-e26b3fa1.png",
+      "image": "spaceship-chunk-3-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11504,7 +11504,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "spaceship-chunk-4-e26b3fa1.png",
+      "image": "spaceship-chunk-4-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11519,7 +11519,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "spaceship-chunk-5-e26b3fa1.png",
+      "image": "spaceship-chunk-5-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11534,7 +11534,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "spaceship-chunk-6-e26b3fa1.png",
+      "image": "spaceship-chunk-6-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11549,7 +11549,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "spaceship-chunk-7-e26b3fa1.png",
+      "image": "spaceship-chunk-7-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11564,7 +11564,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "spaceship-chunk-8-e26b3fa1.png",
+      "image": "spaceship-chunk-8-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11579,7 +11579,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "spaceship-chunk-9-e26b3fa1.png",
+      "image": "spaceship-chunk-9-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11594,7 +11594,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "spaceship-chunk-10-e26b3fa1.png",
+      "image": "spaceship-chunk-10-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11609,7 +11609,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "spaceship-chunk-11-e26b3fa1.png",
+      "image": "spaceship-chunk-11-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11624,7 +11624,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "spaceship-chunk-12-e26b3fa1.png",
+      "image": "spaceship-chunk-12-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11639,7 +11639,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "spaceship-chunk-13-e26b3fa1.png",
+      "image": "spaceship-chunk-13-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11654,7 +11654,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "spaceship-chunk-14-e26b3fa1.png",
+      "image": "spaceship-chunk-14-f24912c5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11669,7 +11669,7 @@
     {
       "columns": 7,
       "firstgid": 3585,
-      "image": "spaceship-chunk-15-e26b3fa1.png",
+      "image": "spaceship-chunk-15-f24912c5.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -11694,6 +11694,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Laws of the Universe is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Laws of the Universe maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

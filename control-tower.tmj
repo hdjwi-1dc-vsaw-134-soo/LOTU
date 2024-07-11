@@ -15559,7 +15559,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "control-tower-chunk-1-7b4c16f0.png",
+      "image": "control-tower-chunk-1-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15675,7 +15675,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "control-tower-chunk-2-7b4c16f0.png",
+      "image": "control-tower-chunk-2-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15690,7 +15690,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "control-tower-chunk-3-7b4c16f0.png",
+      "image": "control-tower-chunk-3-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15705,7 +15705,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "control-tower-chunk-4-7b4c16f0.png",
+      "image": "control-tower-chunk-4-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15720,7 +15720,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "control-tower-chunk-5-7b4c16f0.png",
+      "image": "control-tower-chunk-5-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15735,7 +15735,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "control-tower-chunk-6-7b4c16f0.png",
+      "image": "control-tower-chunk-6-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15750,7 +15750,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "control-tower-chunk-7-7b4c16f0.png",
+      "image": "control-tower-chunk-7-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15765,7 +15765,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "control-tower-chunk-8-7b4c16f0.png",
+      "image": "control-tower-chunk-8-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15780,7 +15780,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "control-tower-chunk-9-7b4c16f0.png",
+      "image": "control-tower-chunk-9-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15795,7 +15795,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "control-tower-chunk-10-7b4c16f0.png",
+      "image": "control-tower-chunk-10-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15810,7 +15810,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "control-tower-chunk-11-7b4c16f0.png",
+      "image": "control-tower-chunk-11-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15825,7 +15825,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "control-tower-chunk-12-7b4c16f0.png",
+      "image": "control-tower-chunk-12-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15840,7 +15840,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "control-tower-chunk-13-7b4c16f0.png",
+      "image": "control-tower-chunk-13-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15855,7 +15855,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "control-tower-chunk-14-7b4c16f0.png",
+      "image": "control-tower-chunk-14-1ee35207.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15870,7 +15870,7 @@
     {
       "columns": 12,
       "firstgid": 3585,
-      "image": "control-tower-chunk-15-7b4c16f0.png",
+      "image": "control-tower-chunk-15-1ee35207.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -15895,6 +15895,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Laws of the Universe is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Laws of the Universe maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",
