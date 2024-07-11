@@ -18,11 +18,11 @@ There are 14 virtual campuses in this repository.
 
 Map name: Laws of the Universe.
 
-![map](readme/center-for-aerodynamics)
+![map](readme/center-for-aerodynamics.png)
 
 Map name: Center for Aerodynamics.
 
-![map](readme/control-tower-readme)
+![map](readme/control-tower-readme.png)
 
 Map name: Control Tower.
 
